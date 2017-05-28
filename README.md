@@ -1,2 +1,2 @@
-# schafkopf
+# Schafkopf
 my own schafkopf app
