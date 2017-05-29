@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "webpack-dev-server --progress --colors --hot --inline --content-base dist/ --config ./webpack.config.js",
-    "test": "mocha src/test/js/**/*.js"
+    "test": "mocha src/test/js --recursive"
   },
   "author": "norbert sattes",
   "babel": {
