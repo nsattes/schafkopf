@@ -1,0 +1,2 @@
+Setup von React Router mit Webpack:
+    http://jmfurlott.com/tutorial-setting-up-a-single-page-react-web-app-with-react-router-and-webpack/

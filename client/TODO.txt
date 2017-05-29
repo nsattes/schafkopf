@@ -1,0 +1,4 @@
+Webpack einrichten
+Testing mit Mocha, Chai und Sinon aufsetzen
+React, React-Router
+Sass?
