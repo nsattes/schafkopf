@@ -1,2 +1,4 @@
+Minimales Setup für React mit Webpack:    
+    https://www.robinwieruch.de/minimal-react-webpack-babel-setup/
 Setup von React Router mit Webpack:
     http://jmfurlott.com/tutorial-setting-up-a-single-page-react-web-app-with-react-router-and-webpack/
